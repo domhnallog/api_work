@@ -10,3 +10,7 @@ This repository is about APIs!
 
 ***Three star***
 
+Local changes happening directly after saving changes online:
+- list1
+- list2
+- list3
